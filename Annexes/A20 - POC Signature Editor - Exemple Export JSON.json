@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "exportedAt": "2026-05-20T07:22:47.519Z",
+  "signatureTitle": "",
+  "selectedTab": "text",
+  "exportWithBackground": true,
+  "signature": {
+    "source": "none",
+    "draw": {
+      "width": 800,
+      "height": 200,
+      "strokes": []
+    },
+    "importedImage": {
+      "fileName": "",
+      "imageDataUrl": ""
+    }
+  },
+  "nameSignature": {
+    "firstName": "Julien",
+    "lastName": "Gournay",
+    "abbreviated": false,
+    "style": {
+      "font": "Arial",
+      "color": "#0f172a",
+      "size": 14,
+      "alignment": "left",
+      "bold": false,
+      "italic": false,
+      "underline": false
+    }
+  },
+  "topContent": {
+    "enabled": true,
+    "value": "<span style=\"font-size: large;\">19/05/2026Lu et approuvé Bon pour accord&nbsp;</span><div><span style=\"font-family: Arial; font-size: large;\">19/05/2026Lu et approuvé Bon pour accord&nbsp;</span><span style=\"font-size: large;\"></span></div><div><span style=\"font-family: Arial; font-size: large;\">19/05/2026Lu et approuvé Bon pour accord&nbsp;</span><span style=\"font-family: Arial; font-size: large;\"></span></div>",
+    "style": {
+      "alignment": "left"
+    }
+  },
+  "bottomContent": {
+    "enabled": true,
+    "value": "<span style=\"font-family: Arial; font-size: large;\">19/05/2026Lu et approuvé Bon pour accord&nbsp;</span><div><span style=\"font-family: Arial; font-size: large;\">19/05/2026Lu et approuvé Bon pour accord&nbsp;</span><span style=\"font-family: Arial; font-size: large;\"></span></div><div><span style=\"font-family: Arial; font-size: large;\">19/05/2026Lu et approuvé Bon pour accord&nbsp;</span><span style=\"font-family: Arial; font-size: large;\"></span></div>",
+    "style": {
+      "alignment": "right"
+    }
+  },
+  "canvasHeight": 284
+}
